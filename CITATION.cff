@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite the paper below (preferred-citation)."
 type: software
-title: "Octet dimer-tetramer model: two-step kinetic analysis of Eph / ephrin-Fc biolayer interferometry"
+title: "Octet_DimerTetramer: two-step kinetic analysis of Eph / ephrin-Fc biolayer interferometry"
 abstract: >-
   Kinetic analysis of Octet biolayer-interferometry sensorgrams for Eph receptor
   binding to Fc-dimerized ephrin ligands with a two-step heterodimer to
@@ -14,6 +14,7 @@ authors:
 version: 0.1.0
 date-released: 2026-10-20
 license: MIT
+repository-code: "https://github.com/ack41704/Octet_DimerTetramer"
 keywords:
   - biolayer interferometry
   - binding kinetics

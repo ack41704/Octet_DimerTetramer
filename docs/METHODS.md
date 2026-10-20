@@ -101,7 +101,7 @@ ka,tet was not reported if the top-trace fit had R² < 0.95. Where kd,tet could 
 
 **Statistics.** Each run was treated as one independent measurement (n = runs). EphB2-WT and EphB2-R79P were compared by two-tailed Student's t-test with equal variance, only within sets with the same ligand, buffer and association/dissociation protocol and at least two runs per variant. Buffers and protocols were never pooled.
 
-**Software.** Analyses used custom Python code (Python 3.13; NumPy 2.3; SciPy 1.16; Matplotlib 3.10) [available at: repository URL].
+**Software.** Analyses used custom Python code (Python 3.13; NumPy 2.3; SciPy 1.16; Matplotlib 3.10), available at https://github.com/ack41704/Octet_DimerTetramer.
 
 **Assumptions and limitations.**
 

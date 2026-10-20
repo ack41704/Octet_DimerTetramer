@@ -1,4 +1,4 @@
-# Octet dimer–tetramer model
+# Octet_DimerTetramer
 
 Kinetic analysis of biolayer-interferometry (Octet BLI) sensorgrams for **Eph receptor binding to Fc-dimerized
 ephrin ligands**, using a two-step **heterodimer → heterotetramer** model. Standard 1:1 global fitting assigns a
@@ -6,9 +6,8 @@ single off-rate per experiment, which blends the fast heterodimer process with t
 code resolves the two processes, and it reports the association, dissociation and affinity constants for each,
 together with flags that say how far each value can be trusted.
 
-> **Status:** unpublished analysis code for an ongoing study. The repository contains **no data**. Keep it private
-> until publication, because a few scripts carry run identifiers and summary values in their docstrings and
-> assertions.
+> The method is described in our paper (see [Citation](#citation)). The repository contains **no data**: point
+> `OCTET_DATA_DIR` at your own Octet exports (see [Quick start](#quick-start)).
 
 ## The model
 
