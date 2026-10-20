@@ -1,0 +1,21 @@
+# ---- data & outputs (unpublished lab data never goes in the repository) ----
+data/
+work/
+*.pkl
+*.csv
+*.xlsx
+*.numbers
+*.pdf
+*.png
+*.svg
+figures_*/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# ---- OS ----
+.DS_Store
